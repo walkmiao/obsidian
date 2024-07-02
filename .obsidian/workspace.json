@@ -11,8 +11,12 @@
             "id": "1e88ba96291d693f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md"
+              }
             }
           }
         ]
@@ -149,17 +158,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1503ff8db47714d7",
+  "active": "11c2096e74dda43c",
   "lastOpenFiles": [
+    "Redis升级工具upgrade(v2)使用说明.md",
+    "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
     "每日计划/2021-11-29 ES6-阮一峰.md",
     "未命名.md",
-    "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
     "Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
     "Pasted image 20240130160058.png",
     "2024-07-02.md",
     "odoo",
     "网页批注/2023/04/wucai-2023-04-14-0814-H836C95.md",
-    "Redis升级工具upgrade(v2)使用说明.md",
     "网页批注/2023/04/wucai-2023-04-14-0843-H8365HH.md",
     "网页批注/2023/04/wucai-2023-04-18-1526-H83CBDM.md",
     "网页批注/2023/04/wucai-2023-04-18-1213-H83C399.md",
