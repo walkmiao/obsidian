@@ -1,0 +1,60 @@
+{
+  "token": "eyJhcHBJZCI6MjAsImFwcEtleSI6IndjM3I0N2phcHdnZHZzaXZzZjJubm8iLCJhcHBTZWNyZXQiOiI5OGFXUHZKTnB3S2VzMko0IiwiZXgiOiIifQ==.30cd8a4ecbf3229657cda0ea65c9b162",
+  "wuCaiDir": "网页批注",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": true,
+  "refreshNotes": false,
+  "notesToRefresh": [],
+  "notesPathIdsMap": {
+    "网页批注/2023/04/wucai-2023-04-14-0814-H836C95.md": "71930",
+    "网页批注/2023/04/wucai-2023-04-14-0817-H836C9C.md": "71931",
+    "网页批注/2023/04/wucai-2023-04-14-0843-H8365HH.md": "71939",
+    "网页批注/2023/04/wucai-2023-04-14-1255-H836E2M.md": "72208",
+    "网页批注/2023/04/wucai-2023-04-17-1407-H83C296.md": "74232",
+    "网页批注/2023/04/wucai-2023-04-18-1117-H83C373.md": "74967",
+    "网页批注/2023/04/wucai-2023-04-18-1213-H83C399.md": "75004",
+    "网页批注/2023/04/wucai-2023-04-18-1526-H83CBDM.md": "75200"
+  },
+  "notesIdsPathMap": {
+    "71930": {
+      "path": "网页批注/2023/04/wucai-2023-04-14-0814-H836C95.md",
+      "updateAt": 1681431267
+    },
+    "71931": {
+      "path": "网页批注/2023/04/wucai-2023-04-14-0817-H836C9C.md",
+      "updateAt": 1681431513
+    },
+    "71939": {
+      "path": "网页批注/2023/04/wucai-2023-04-14-0843-H8365HH.md",
+      "updateAt": 1681433116
+    },
+    "72208": {
+      "path": "网页批注/2023/04/wucai-2023-04-14-1255-H836E2M.md",
+      "updateAt": 1681448148
+    },
+    "74232": {
+      "path": "网页批注/2023/04/wucai-2023-04-17-1407-H83C296.md",
+      "updateAt": 1681711663
+    },
+    "74967": {
+      "path": "网页批注/2023/04/wucai-2023-04-18-1117-H83C373.md",
+      "updateAt": 1681787867
+    },
+    "75004": {
+      "path": "网页批注/2023/04/wucai-2023-04-18-1213-H83C399.md",
+      "updateAt": 1681791314
+    },
+    "75200": {
+      "path": "网页批注/2023/04/wucai-2023-04-18-1526-H83CBDM.md",
+      "updateAt": 1681802774
+    }
+  },
+  "reimportShowConfirmation": true,
+  "lastCursor": {
+    "lastId": 0,
+    "lastHighlightPKID": 414575,
+    "lastTime": 0
+  }
+}

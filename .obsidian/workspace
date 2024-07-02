@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "858adc321ba276ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff938a38fe57e0ae",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "未命名.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c7a15423fb7c7b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed6b426b9aa8952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1503ff8db47714d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "11c2096e74dda43c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a88c3b76ac38a7fa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "a8f6899f1c755c2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ab6e9b7cd4f679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "325f7387ebd0ac57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75ce04eba105dd9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad3ce87db4a1d6b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa4c5a49ceb35654",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ff938a38fe57e0ae",
+  "lastOpenFiles": [
+    "未命名.md",
+    "工作学习/2021/12月/2021-12-08.md",
+    "工作学习/2021/11月/2021-12-02.md",
+    "工作学习/2021/11月/2021-11-29.md",
+    "每日计划/2021-11-29 ES6-阮一峰.md",
+    "中间件/kafka（掘金）.md",
+    "Go/basic/spf13三件套/pflag.md",
+    "Go/basic/spf13三件套/cobra.md",
+    "Go/basic/spf13三件套/viper.md",
+    "Go/basic/Go 位运算符的使用.md"
+  ]
+}

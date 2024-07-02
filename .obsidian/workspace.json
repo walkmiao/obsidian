@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "858adc321ba276ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "61f033a218cf4f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2fa224810e705e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c7a15423fb7c7b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed6b426b9aa8952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1503ff8db47714d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11c2096e74dda43c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a88c3b76ac38a7fa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "41336d091ca31dcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323
+  },
+  "right": {
+    "id": "a8f6899f1c755c2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3ab6e9b7cd4f679",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "325f7387ebd0ac57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75ce04eba105dd9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad3ce87db4a1d6b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa4c5a49ceb35654",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Can't fetch record(s) 1121. They might have been deleted.  Odoo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "random-note:开始漫游笔记": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "1503ff8db47714d7",
+  "lastOpenFiles": [
+    "2024-07-02.md",
+    "Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
+    "Pasted image 20240130160058.png",
+    "未命名.md",
+    "odoo",
+    "网页批注/2023/04/wucai-2023-04-14-0814-H836C95.md",
+    "Redis升级工具upgrade(v2)使用说明.md",
+    "网页批注/2023/04/wucai-2023-04-14-0843-H8365HH.md",
+    "网页批注/2023/04/wucai-2023-04-18-1526-H83CBDM.md",
+    "网页批注/2023/04/wucai-2023-04-18-1213-H83C399.md",
+    "网页批注/2023/04/wucai-2023-04-18-1117-H83C373.md",
+    "网页批注/2023/04/wucai-2023-04-17-1407-H83C296.md",
+    "网页批注/2023/04/wucai-2023-04-14-1255-H836E2M.md",
+    "网页批注/2023/04/wucai-2023-04-14-0817-H836C9C.md",
+    "WuCai/2023/04/wucai-2023-04-14-0843-H8365HH.md",
+    "网页批注/2023/04",
+    "网页批注/2023",
+    "网页批注",
+    "WuCai/2023/04/wucai-2023-04-14-0817-H836C9C.md",
+    "WuCai/2023/04/wucai-2023-04-14-0814-H836C95.md",
+    "WuCai/2023/04",
+    "WuCai/2023",
+    "WuCai",
+    "工作学习/2021/12月/2021-12-08.md",
+    "工作学习/2021/11月/2021-12-02.md",
+    "工作学习/2021/11月/2021-11-29.md",
+    "每日计划/2021-11-29 ES6-阮一峰.md",
+    "中间件/kafka（掘金）.md",
+    "Go/basic/spf13三件套/pflag.md",
+    "Go/basic/spf13三件套/cobra.md",
+    "Go/basic/spf13三件套/viper.md",
+    "Go/basic/Go 位运算符的使用.md"
+  ]
+}
