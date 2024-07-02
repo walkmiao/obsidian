@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -158,10 +157,11 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "11c2096e74dda43c",
+  "active": "1e88ba96291d693f",
   "lastOpenFiles": [
-    "Redis升级工具upgrade(v2)使用说明.md",
+    "odoo/未命名.md",
     "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
+    "Redis升级工具upgrade(v2)使用说明.md",
     "每日计划/2021-11-29 ES6-阮一峰.md",
     "未命名.md",
     "Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
