@@ -11,8 +11,12 @@
             "id": "b2fa224810e705e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Can't fetch record(s) 1121. They might have been deleted.  Odoo.md"
+                "file": "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md"
               }
             }
           }
@@ -151,11 +157,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1503ff8db47714d7",
+  "active": "b2fa224810e705e0",
   "lastOpenFiles": [
-    "2024-07-02.md",
     "Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
+    "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
     "Pasted image 20240130160058.png",
+    "2024-07-02.md",
     "未命名.md",
     "odoo",
     "网页批注/2023/04/wucai-2023-04-14-0814-H836C95.md",
