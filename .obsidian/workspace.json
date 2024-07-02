@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f9e8afd27b69fc47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日计划/2021-11-29 ES6-阮一峰.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日计划/2021-11-29 ES6-阮一峰.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日计划/2021-11-29 ES6-阮一峰.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -157,13 +170,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b2fa224810e705e0",
+  "active": "f9e8afd27b69fc47",
   "lastOpenFiles": [
+    "每日计划/2021-11-29 ES6-阮一峰.md",
+    "未命名.md",
     "odoo/Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
     "Can't fetch record(s) 1121. They might have been deleted.  Odoo.md",
     "Pasted image 20240130160058.png",
     "2024-07-02.md",
-    "未命名.md",
     "odoo",
     "网页批注/2023/04/wucai-2023-04-14-0814-H836C95.md",
     "Redis升级工具upgrade(v2)使用说明.md",
@@ -186,7 +200,6 @@
     "工作学习/2021/12月/2021-12-08.md",
     "工作学习/2021/11月/2021-12-02.md",
     "工作学习/2021/11月/2021-11-29.md",
-    "每日计划/2021-11-29 ES6-阮一峰.md",
     "中间件/kafka（掘金）.md",
     "Go/basic/spf13三件套/pflag.md",
     "Go/basic/spf13三件套/cobra.md",
