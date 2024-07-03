@@ -1,0 +1,25 @@
+.selectYear {
+  border-color: none;
+}
+
+.HistoryBoard {
+  background-color: white;
+  padding: 10px;
+  border-radius: 14px;
+  width: auto;
+  height: auto;
+}
+
+.ObsidianHistoryBlock {
+  background-color: white;
+  border-radius: 14px;
+  width: auto;
+  height: auto;
+}
+
+.selectYear {
+  float: left;
+  margin-bottom: 5px;
+  border-color: white;
+  border-radius: 14px;
+}
